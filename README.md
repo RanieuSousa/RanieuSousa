@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**RanieuSousa/RanieuSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Ranieu Sousa, a passionate software developer and technology enthusiast. Currently, I work as a data analyst and freelance web developer. With over 5 years of experience in the field, I've had the opportunity to work on various interesting projects and explore different technologies.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
