@@ -1,0 +1,33 @@
+name: Atualizar lista de repositórios
+
+on:
+  schedule:
+    - cron: '0 6 * * 1' # toda segunda-feira às 3h da manhã no Brasil
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Instalar dependências
+        run: npm install axios
+
+      - name: Rodar script
+        run: node update-readme.js
+
+      - name: Commit e Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Atualiza lista de repositórios automaticamente"
+          git push
