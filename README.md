@@ -14,10 +14,11 @@ I am Ranieu Sousa, a passionate software developer and technology enthusiast. Cu
 - 🔗 [Calculadora de Dutching (Frontend)](https://v0-dutching-calculator-improvement.vercel.app/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranieusousa/ranieusousa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranieusousa/ranieusousa/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ranieusousa/ranieusousa/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RanieuSousa/RanieuSousa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RanieuSousa/RanieuSousa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RanieuSousa/RanieuSousa/output/github-snake.svg" />
 </picture>
+
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=ranieusousa&theme=merko&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranieusousa&theme=merko&hide_border=false"  width="400px" />
