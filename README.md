@@ -7,10 +7,11 @@ I am Ranieu Sousa, a passionate software developer and technology enthusiast. Cu
 # 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranieu-sousa-33957a9b/) 
  # 🚀 Meus Projetos:
-- 🔗 [Sistema de Gestão de Clientes (Laravel + Angular)](https://github.com/ranieusousa/gestao-clientes)
-- 🔗 [Dashboard de Vendas Power BI](https://github.com/ranieusousa/dashboard-vendas)
+
+- 🔗 [Xdrone](https://xdronespmw.com.br/)
+- 🔗 [Dashboard de Vendas Power BI](https://app.powerbi.com/view?r=eyJrIjoiNjUyMGU0MzgtMDczNy00MWVhLWI1ZTktNWQ4Y2EzYjI4OTY4IiwidCI6ImZjYjljNzRmLWRiODMtNDRlZC1iMjlhLWRkZGRmMjBiZTI5OCJ9)
 - 🔗 [Pomodoro Web App (Python + Electron)](https://github.com/ranieusousa/pomodoro-app)
-- 🔗 [API RESTful com Laravel para Cadastro de Produtos](https://github.com/ranieusousa/api-laravel-produtos)
+- 🔗 [Calculadora de Dutching (Frontend)](https://v0-dutching-calculator-improvement.vercel.app/)
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=ranieusousa&theme=merko&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranieusousa&theme=merko&hide_border=false"  width="400px" />
