@@ -2,21 +2,23 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todos os dias à meia-noite
-  workflow_dispatch:
+    - cron: "0 0 * * *" # roda diariamente à meia-noite
+  workflow_dispatch: # permite rodar manualmente pelo GitHub
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
-          github_user_name: ranieusousa
+          github_user_name: RanieuSousa
           outputs: |
             ./output/github-snake.svg
             ./output/github-snake-dark.svg
 
-      - name: Commit and push
+      - name: Commit and push generated SVGs
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
